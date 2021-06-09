@@ -1,0 +1,30 @@
+* {
+    background: #15202b;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+
+button {
+    background: #22303c;
+    border: 2px solid #ffffff;
+    font-size: 24px;
+    cursor: pointer;
+    outline: none;
+    padding: 10px;
+}
+
+.board-layout {
+    border: 5px solid #ffffff;
+    border-radius: 5px;
+    width: 450px;
+    height: 550px;
+    margin: 0 auto;
+    display: grid;
+    grid-template: repeat(3, 1fr) / repeat(3, 1fr);
+}
+
+.recap {
+    text-align: center;
+    font-size: 30px;
+}
