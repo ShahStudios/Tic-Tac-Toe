@@ -1,6 +1,6 @@
 ### General info
 
-Tic-Tac-Toe app made using React.
+Tic-Tac-Toe app created using React.
 
 #### Key Concepts
 
